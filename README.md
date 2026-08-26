@@ -127,8 +127,8 @@ A computer vision project for detecting and analyzing running posture using imag
 ## GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Nuryanfa&show_icons=true&theme=transparent&hide_border=true" height="165" alt="Nur Yanfa's GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nuryanfa&layout=compact&theme=transparent&hide_border=true" height="165" alt="Top Languages"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Nuryanfa&show_icons=true&theme=dracula" height="165" alt="Nur Yanfa's GitHub Stats"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nuryanfa&layout=compact&theme=dracula" height="165" alt="Top Languages"/>
 </div>
 
 ---
